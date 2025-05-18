@@ -9,4 +9,4 @@
 ## Content generation process:
 - Read `Recovery Keys - Key Rotation process:`.
 
-![alt text](https://raw.githubusercontent.com/recovery-keys/may2025/refs/heads/main/may-2025_flow.drawio.png)
+![alt text](https://github.com/recovery-keys/may2025/blob/master/may-2025_flow.png)
